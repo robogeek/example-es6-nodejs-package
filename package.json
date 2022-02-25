@@ -1,0 +1,20 @@
+{
+  "name": "example-es6-nodejs-package",
+  "version": "1.0.0",
+  "description": "An example Node.js package using ES6 module syntax",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robogeek/example-es6-nodejs-package.git"
+  },
+  "keywords": [],
+  "author": "David Herron <david@davidherron.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robogeek/example-es6-nodejs-package/issues"
+  },
+  "homepage": "https://github.com/robogeek/example-es6-nodejs-package#readme"
+}
